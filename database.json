@@ -1,1 +1,13 @@
-ufjjfjjf
+{
+  "allowedIps": ["172.18.0.4", "172.18.0.3"],
+  "users": [
+    {
+      "username": "rafael",
+      "password": "rafael123"
+    },
+    {
+      "username": "azey",
+      "password": "azey123"
+    }
+  ]
+}
