@@ -1,13 +1,7 @@
 {
-  "allowedIps": ["172.18.0.3", "172.18.0.3"],
   "users": [
     {
-      "username": "raf",
-      "password": "raf"
-    },
-    {
-      "username": "azey",
-      "password": "azey123"
+      "password": "ketua"
     }
   ]
 }
