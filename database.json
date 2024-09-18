@@ -1,16 +1,11 @@
 {
-  "users": [
+  "password": "Rafael",
+  "verifiedUsers": [
     {
-      "phone": "6283857564133",
-      "password": "Rafael"
+      "phone": "081234567890"
     },
     {
-      "phone": "6283833731741",
-      "password": "Rafael"
-    },
-    {
-      "phone": "089517657040",
-      "password": "Rafael"
+      "phone": "089876543210"
     }
   ]
 }
