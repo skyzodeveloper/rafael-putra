@@ -1,7 +1,16 @@
 {
   "users": [
     {
-      "password": "RafaelGanteng"
+      "phone": "6283857564133",
+      "password": "Rafael"
+    },
+    {
+      "phone": "6283833731741",
+      "password": "Rafael"
+    },
+    {
+      "phone": "089517657040",
+      "password": "Rafael"
     }
   ]
 }
