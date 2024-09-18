@@ -7,5 +7,10 @@
     {
       "phone": "089876543210"
     }
+  ],
+  "users": [
+    {
+      "password": "Rafael"
+    }
   ]
 }
